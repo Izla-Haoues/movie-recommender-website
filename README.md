@@ -149,7 +149,7 @@ This design ensures:
 ## 👤 Authors
 
 - **Baker Husein**
-- **Islah Haoues**
+- **Izla Haoues**
 
 ---
 
